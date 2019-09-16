@@ -105,7 +105,7 @@ Optionally, you should set the training parameters in [./keras_csp/config.py](./
  (2) Follow the [./eval_city/eval_script/eval_demo.py](./eval_city/eval_script/eval_demo.py) to get the Miss Rates of detections in `main_path` defined in line 9.
 
 ### Models
-To reproduce the results in our paper, we have provided the models trained from different datasets. You can download them through [BaiduYun](https://pan.baidu.com/s/1SSPQnbDP6zf9xf8eCDi3Fw) (Code: jcgd). For Caltech, please make sure that the version of OpenCV is 3.4.1.15, other versions will read the same image into different data values, resulting in slightly different performance.
+To reproduce the results in our paper, we have provided the models trained from different datasets. You can download them through [BaiduYun](https://pan.baidu.com/s/1SSPQnbDP6zf9xf8eCDi3Fw) (Code: jcgd) or GDrive : https://drive.google.com/drive/folders/1W52Uv2r1CXsLYDV4Dzpb-urPEDoWOG__?usp=sharing. For Caltech, please make sure that the version of OpenCV is 3.4.1.15, other versions will read the same image into different data values, resulting in slightly different performance.
 1. For Caltech
  
  ResNet-50 initialized from ImageNet:
